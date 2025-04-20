@@ -46,7 +46,6 @@ namespace Bibliogame.Model.Entities
                  ", Product Category: " + Product.Category +
                  ", Product Type Payment: " + TypePayment +
                  ", Product Total Price: " + TotalPrice().ToString("F2");
-
         }
     }
 }

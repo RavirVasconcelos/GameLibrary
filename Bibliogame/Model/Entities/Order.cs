@@ -58,6 +58,5 @@ namespace Bibliogame.Model.Entities
 
             return sb.ToString();
         }
-
     }
 }

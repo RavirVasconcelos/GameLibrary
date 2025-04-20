@@ -5,7 +5,6 @@
         public double TaxPayment(double amount)
         {
             return amount * 1.053;
-
         }
     }
 }

@@ -7,6 +7,7 @@ namespace Bibliogame.Model.Entities
         public string Name { get; set; }
         public double Price { get; set; }
         public Category Category { get; set; }
+
         public Product()
         {
         }
